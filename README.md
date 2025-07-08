@@ -65,7 +65,7 @@ That's it\! The gallery will load, and you can start exploring the images.
     ];
     ```
   * **Adding/Modifying Categories:**
-      * In `index.html`, add or change the `data-filter` attribute on the filter buttons.
+      * In `gall.html`, add or change the `data-filter` attribute on the filter buttons.
       * Ensure the `category` property in your `allImages` array (in `gall.js`) matches the `data-filter` values.
   * **Styling:**
     Modify `gall.css` to change the appearance of the gallery, buttons, lightbox, and more.
