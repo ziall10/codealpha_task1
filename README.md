@@ -1,9 +1,4 @@
-# codealpha_task1
-A dynamic image gallery
-
------
-
-# Image Gallery
+# A Dynamic Image Gallery
 
 This is a responsive and interactive image gallery built with HTML, CSS, and JavaScript. It allows users to browse a collection of images, filter them by category, and view them in a full-screen lightbox.
 
