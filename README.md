@@ -1,6 +1,5 @@
 # codealpha_task1
 A dynamic image gallery
-No problem, I can help you with that\!
 
 -----
 
@@ -28,20 +27,20 @@ To run this project locally, follow these simple steps:
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/ziall10/codealpha_task1.git>
     ```
 2.  **Navigate to the project directory:**
     ```bash
     cd image-gallery
     ```
-3.  **Open `index.html` in your web browser.**
+3.  **Open `gall.html` in your web browser.**
 
 That's it\! The gallery will load, and you can start exploring the images.
 
 ## Project Structure
 
 ```
-├── index.html          # Main HTML file
+├── gall.html          # Main HTML file
 ├── gall.css            # Styles for the gallery
 ├── gall.js             # JavaScript for interactivity
 └── images/             # Directory for image assets
@@ -73,4 +72,3 @@ That's it\! The gallery will load, and you can start exploring the images.
 
 -----
 
-Feel free to customize this README further to match your specific repository details and personal style\!
